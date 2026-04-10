@@ -11,3 +11,5 @@ vue3 + SpringBoot + Docker or Kubernetes
 DB는 아직 뭘로 할지 모르겠음..
 
 PostgreSQL 로 할까.. Oracle 로 할까 MSSQL 로 할까? 
+
+간단한센서를 웹과 연동

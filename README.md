@@ -15,3 +15,5 @@ PostgreSQL 로 할까.. Oracle 로 할까 MSSQL 로 할까?
 간단한센서를 웹과 연동
 
 센서랑 웹이랑 연동되는지 확인
+
+Api설계

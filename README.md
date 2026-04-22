@@ -17,3 +17,5 @@ PostgreSQL 로 할까.. Oracle 로 할까 MSSQL 로 할까?
 센서랑 웹이랑 연동되는지 확인
 
 Api설계
+
+CCTV 모니터링 화면구성을 편하게 할 수 있도록 설계

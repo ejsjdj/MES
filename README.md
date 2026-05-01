@@ -19,3 +19,4 @@ PostgreSQL 로 할까.. Oracle 로 할까 MSSQL 로 할까?
 Api설계
 
 CCTV 모니터링 화면구성을 편하게 할 수 있도록 설계
+ 
